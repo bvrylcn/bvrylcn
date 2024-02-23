@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://baveryalcin.com.tr/](https://baveryalcin.com.tr/)
 
-- 📫 How to reach me **baver153769@gmail.com**
+- 📫 How to reach me **baveryalcinofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
