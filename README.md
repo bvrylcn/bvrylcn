@@ -18,5 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvrylcn&" alt="bvrylcn" /></p>
 
-
-![snake gif](https://github.com/bvrylcn/bvrylcn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
