@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/105741983/232443884-5c02b5ea-e4ba-4ed8-a872-6920b84137df.png)
+![MasterHead](IMG-20231121-WA0057.jpg)
 <h1 align="center">Hi 👋, I'm Baver Yalçın</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
