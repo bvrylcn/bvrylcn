@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://baveryalcin.com.tr/](https://baveryalcin.com.tr/)
 
-- 📫 How to reach me **baveryalcinofficial@gmail.com**
+- 📫 How to reach me **baveryalcinofficial@icloud.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bvrylcn&show_icons=true&locale=en&layout=compact" alt="bvrylcn" /></p>
 
